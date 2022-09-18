@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Prachi",
+      "lastName": "prachi1908@gmail.com",
+      "email": null,
+      "mobile": "9354943259",
+      "salary": "10,0000"
+    },
+    {
+      "id": 2,
+      "firstName": "Mishra",
+      "lastName": "piyushmishra23@gmail.com",
+      "email": null,
+      "mobile": "82772829292",
+      "salary": "20,000"
+    },
+    {
+      "id": 3,
+      "firstName": "Singh",
+      "lastName": "hna@gmail.com",
+      "email": null,
+      "mobile": "1234567890",
+      "salary": "10,000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
